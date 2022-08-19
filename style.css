@@ -1,0 +1,271 @@
+body{
+    background-image: linear-gradient(to right, rgb(111, 148, 205),rgb(0, 89, 255),rgb(63, 66, 255),rgb(0, 10, 195));
+}
+
+.Heading
+{
+    font-size:60px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(255, 234, 0);
+}
+
+.SmallHeading
+{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:white;
+}
+
+.createAccDiv
+{
+
+    height:300px;
+    width:440px;
+    border:1px rgb(255, 255, 255) solid;
+    border-radius:10px;
+    background-color:rgb(0, 55, 255);
+  
+}
+
+.input{
+    width:400px;
+    height:40px;
+    border-radius:10px;
+    border:0px;
+    text-align: center;
+    font-size:20px;
+}
+
+.a
+{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:white;
+    margin-inline: 20px;
+    text-decoration: none;
+    
+}
+.a:hover
+{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:white;
+    margin-inline: 20px;
+    text-decoration:underline;
+    
+}
+
+.createAccountBtn
+{
+    height:40px;
+    width:350px;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+    background-color:rgb(45, 173, 62);
+    border:0px;
+
+}
+
+.createAccountBtn:hover
+{
+    height:40px;
+    width:350px;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+    background-color:rgb(79, 183, 92);
+    border:0px;
+
+}
+
+.mainDiv
+{
+    height:60px;
+    width:100%;
+    border:1px solid white;
+    background-color:rgb(255, 255, 255);
+    
+
+}
+
+
+
+.homePageBtn{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(201, 204, 35);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+
+    
+}
+.homePageBtn:hover{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(255, 251, 0);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+
+    
+}
+
+.rowBtn{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(35, 60, 157);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+}
+.rowBtn:hover{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(0, 174, 255);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+}
+
+
+.logoutBtn{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(182, 3, 3);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+    margin-top:10px;
+}
+
+.logoutBtn:hover{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:rgb(255, 96, 96);
+    margin-inline:50px;
+    display: inline-block;
+    margin-bottom:10px;
+    text-decoration: none;
+
+    
+}
+
+
+#htmlContent{
+    background: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    position: relative;
+  }
+
+
+  .img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+  }
+
+  .SmallHeading2{
+    font-size:30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Saira', sans-serif;
+    color:white;
+    text-decoration: underline;
+  }
+
+  .imgBtn{
+    width: 50px;
+    height: 50px;
+  }
+
+  .setBtn{
+    height:20px;
+    width:70px;
+    border-radius:5px;
+  }
+
+  .backgroundGallery{
+    width:60%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+  }
+
+  .sticker{
+    height:50px;
+    width:50px;
+    position: absolute;
+  }
+
+  .inputMeasure{
+    height:40px;
+    width:350px;
+    border-radius:5px;
+    font-size:20px;
+    text-align: center;
+    border:0px;
+  }
+
+.measureDiv{
+  display:flex;
+  justify-content: center;
+}
+
+.checkBtn{
+  height:50px;
+  width:200px;
+  border-radius:5px;
+  background-color:rgb(255, 200, 0);
+  font-size:20px;
+  border:0px;
+  color:white;
+}
+.checkBtn:hover{
+  height:50px;
+  width:200px;
+  border-radius:5px;
+  background-color:rgb(200, 160, 13);
+  font-size:20px;
+  border:0px;
+  color:white;
+}
+
+
+
+
+
+
+
